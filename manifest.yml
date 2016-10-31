@@ -1,0 +1,10 @@
+applications:
+- path: .
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: Junk1234567
+  host: Junk1234567
+  disk_quota: 1024M
+  services:
+  - Junk1234567-personality_insights
